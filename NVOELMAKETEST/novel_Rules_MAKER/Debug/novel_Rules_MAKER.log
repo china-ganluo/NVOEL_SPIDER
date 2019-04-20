@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+  MyForm.obj : 遇到了 MSIL 模块；对 MSIL 禁用了增量链接；正在执行完全链接
+.NETFramework,Version=v4.7.2.AssemblyAttributes.obj : warning LNK4204: “C:\Users\wzd22\Desktop\NOVELMAKER\GANRORMAKE\novel_Rules_MAKER\Debug\vc142.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+  novel_Rules_MAKER.vcxproj -> C:\Users\wzd22\Desktop\NOVELMAKER\GANRORMAKE\novel_Rules_MAKER\Debug\novel_Rules_MAKER.exe
