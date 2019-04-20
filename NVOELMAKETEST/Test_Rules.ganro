@@ -1,0 +1,12 @@
+<mainurl>https://www.xbiquge6.com/xbqgph.html</mainurl>
+<novelname><meta property="og:title" content="(.*?)"/></novelname>
+<suoyin><span class="s2"><a href="(.*?)" target="_blank">.*?</a></suoyin>
+<zhangjieurl><dd><a href="(.*?)">.*?</a></dd></zhangjieurl>
+<hangjiename><dd><a href=".*?">(.*?)</a></dd></hangjiename>
+<leixin><meta property="og:novel:category" content="(.*?)"/></leixin>
+<zuozhe><meta property="og:novel:author" content="(.*?)"/></zuozhe>
+<zhenwen><div id="content">(.*?)</div></zhenwen>
+<gg><meta property="og:image" content="(.*?)"/></gg>
+<zz>https://www.xbiquge6.com</zz>
+<bianma>utf-8</bianma>
+<jianjie><meta name="description" content="(.*?)"/></jianjie>
